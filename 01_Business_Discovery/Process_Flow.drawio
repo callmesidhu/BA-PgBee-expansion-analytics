@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="KUsWp_xwkrDX3QUAPB0N">
+    <mxGraphModel dx="858" dy="1607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="Start" vertex="1">
+          <mxGeometry height="60" width="60" x="330" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Hostel Registration" vertex="1">
+          <mxGeometry height="60" width="140" x="290" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Submit Hostel Data" vertex="1">
+          <mxGeometry height="60" width="140" x="290" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Admin Verification" vertex="1">
+          <mxGeometry height="60" width="140" x="300" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Approved?" vertex="1">
+          <mxGeometry height="80" width="140" x="290" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Publish Hostel" vertex="1">
+          <mxGeometry height="60" width="140" x="160" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Reject" vertex="1">
+          <mxGeometry height="60" width="140" x="460" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Student Searches" vertex="1">
+          <mxGeometry height="60" width="140" x="290" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="View Hostel Info" vertex="1">
+          <mxGeometry height="60" width="140" x="290" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Compare Hostels" vertex="1">
+          <mxGeometry height="60" width="140" x="290" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Book Hostel" vertex="1">
+          <mxGeometry height="60" width="140" x="290" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Payment Gateway" vertex="1">
+          <mxGeometry height="60" width="140" x="290" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Booking Confirmed" vertex="1">
+          <mxGeometry height="60" width="140" x="290" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="PgBee Revenue" vertex="1">
+          <mxGeometry height="60" width="140" x="290" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="End" vertex="1">
+          <mxGeometry height="60" width="60" x="330" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-16" edge="1" parent="1" source="pF_L4ySPnjTN-RD9-j6y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="pF_L4ySPnjTN-RD9-j6y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-17" edge="1" parent="1" source="pF_L4ySPnjTN-RD9-j6y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="pF_L4ySPnjTN-RD9-j6y-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-18" edge="1" parent="1" source="pF_L4ySPnjTN-RD9-j6y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="pF_L4ySPnjTN-RD9-j6y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-19" edge="1" parent="1" source="pF_L4ySPnjTN-RD9-j6y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="pF_L4ySPnjTN-RD9-j6y-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-20" edge="1" parent="1" source="pF_L4ySPnjTN-RD9-j6y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=default;" target="pF_L4ySPnjTN-RD9-j6y-6" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-21" edge="1" parent="1" source="pF_L4ySPnjTN-RD9-j6y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=default;" target="pF_L4ySPnjTN-RD9-j6y-7" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-22" edge="1" parent="1" source="pF_L4ySPnjTN-RD9-j6y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="pF_L4ySPnjTN-RD9-j6y-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-23" edge="1" parent="1" source="pF_L4ySPnjTN-RD9-j6y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="pF_L4ySPnjTN-RD9-j6y-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-24" edge="1" parent="1" source="pF_L4ySPnjTN-RD9-j6y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="pF_L4ySPnjTN-RD9-j6y-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-25" edge="1" parent="1" source="pF_L4ySPnjTN-RD9-j6y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="pF_L4ySPnjTN-RD9-j6y-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-26" edge="1" parent="1" source="pF_L4ySPnjTN-RD9-j6y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="pF_L4ySPnjTN-RD9-j6y-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-27" edge="1" parent="1" source="pF_L4ySPnjTN-RD9-j6y-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="pF_L4ySPnjTN-RD9-j6y-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-28" edge="1" parent="1" source="pF_L4ySPnjTN-RD9-j6y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="pF_L4ySPnjTN-RD9-j6y-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pF_L4ySPnjTN-RD9-j6y-29" edge="1" parent="1" source="pF_L4ySPnjTN-RD9-j6y-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;" target="pF_L4ySPnjTN-RD9-j6y-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
