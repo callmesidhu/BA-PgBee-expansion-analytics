@@ -1,0 +1,75 @@
+student_id,full_name,college_name,district,registration_date
+1,Student 1,College of Engineering Trivandrum,Thiruvananthapuram,2025-10-02
+2,Student 2,Government Engineering College Barton Hill,Thiruvananthapuram,2025-10-03
+3,Student 3,Mar Baselios College,Thiruvananthapuram,2025-10-04
+4,Student 4,University College,Thiruvananthapuram,2025-10-05
+5,Student 5,TKM College,Thiruvananthapuram,2025-10-06
+6,Student 6,College of Engineering Trivandrum,Thiruvananthapuram,2025-10-07
+7,Student 7,Government Engineering College Barton Hill,Thiruvananthapuram,2025-10-08
+8,Student 8,Mar Baselios College,Thiruvananthapuram,2025-10-09
+9,Student 9,University College,Thiruvananthapuram,2025-10-10
+10,Student 10,TKM College,Thiruvananthapuram,2025-10-11
+11,Student 11,College of Engineering Trivandrum,Thiruvananthapuram,2025-10-12
+12,Student 12,Government Engineering College Barton Hill,Thiruvananthapuram,2025-10-13
+13,Student 13,Mar Baselios College,Thiruvananthapuram,2025-10-14
+14,Student 14,University College,Thiruvananthapuram,2025-10-15
+15,Student 15,TKM College,Thiruvananthapuram,2025-10-16
+16,Student 16,College of Engineering Trivandrum,Thiruvananthapuram,2025-10-17
+17,Student 17,Government Engineering College Barton Hill,Thiruvananthapuram,2025-10-18
+18,Student 18,Mar Baselios College,Thiruvananthapuram,2025-10-19
+19,Student 19,University College,Thiruvananthapuram,2025-10-20
+20,Student 20,TKM College,Thiruvananthapuram,2025-10-21
+21,Student 21,College of Engineering Trivandrum,Thiruvananthapuram,2025-10-22
+22,Student 22,Government Engineering College Barton Hill,Thiruvananthapuram,2025-10-23
+23,Student 23,Mar Baselios College,Thiruvananthapuram,2025-10-24
+24,Student 24,University College,Thiruvananthapuram,2025-10-25
+25,Student 25,TKM College,Thiruvananthapuram,2025-10-26
+26,Student 26,College of Engineering Trivandrum,Thiruvananthapuram,2025-10-27
+27,Student 27,Government Engineering College Barton Hill,Thiruvananthapuram,2025-10-28
+28,Student 28,Mar Baselios College,Thiruvananthapuram,2025-10-29
+29,Student 29,University College,Thiruvananthapuram,2025-10-30
+30,Student 30,TKM College,Thiruvananthapuram,2025-10-31
+31,Student 31,College of Engineering Trivandrum,Thiruvananthapuram,2025-11-01
+32,Student 32,Government Engineering College Barton Hill,Thiruvananthapuram,2025-11-02
+33,Student 33,Mar Baselios College,Thiruvananthapuram,2025-11-03
+34,Student 34,University College,Thiruvananthapuram,2025-11-04
+35,Student 35,TKM College,Thiruvananthapuram,2025-11-05
+36,Student 36,College of Engineering Trivandrum,Thiruvananthapuram,2025-11-06
+37,Student 37,Government Engineering College Barton Hill,Thiruvananthapuram,2025-11-07
+38,Student 38,Mar Baselios College,Thiruvananthapuram,2025-11-08
+39,Student 39,University College,Thiruvananthapuram,2025-11-09
+40,Student 40,TKM College,Thiruvananthapuram,2025-11-10
+41,Student 41,College of Engineering Trivandrum,Thiruvananthapuram,2025-11-11
+42,Student 42,Government Engineering College Barton Hill,Thiruvananthapuram,2025-11-12
+43,Student 43,Mar Baselios College,Thiruvananthapuram,2025-11-13
+44,Student 44,University College,Thiruvananthapuram,2025-11-14
+45,Student 45,TKM College,Thiruvananthapuram,2025-11-15
+46,Student 46,College of Engineering Trivandrum,Thiruvananthapuram,2025-11-16
+47,Student 47,Government Engineering College Barton Hill,Thiruvananthapuram,2025-11-17
+48,Student 48,Mar Baselios College,Thiruvananthapuram,2025-11-18
+49,Student 49,University College,Thiruvananthapuram,2025-11-19
+50,Student 50,TKM College,Thiruvananthapuram,2025-11-20
+51,Student 51,College of Engineering Trivandrum,Thiruvananthapuram,2025-11-21
+52,Student 52,Government Engineering College Barton Hill,Thiruvananthapuram,2025-11-22
+53,Student 53,Mar Baselios College,Thiruvananthapuram,2025-11-23
+54,Student 54,University College,Thiruvananthapuram,2025-11-24
+55,Student 55,TKM College,Thiruvananthapuram,2025-11-25
+56,Student 56,College of Engineering Trivandrum,Thiruvananthapuram,2025-11-26
+57,Student 57,Government Engineering College Barton Hill,Thiruvananthapuram,2025-11-27
+58,Student 58,Mar Baselios College,Thiruvananthapuram,2025-11-28
+59,Student 59,University College,Thiruvananthapuram,2025-11-29
+60,Student 60,TKM College,Thiruvananthapuram,2025-11-30
+61,Student 61,College of Engineering Trivandrum,Thiruvananthapuram,2025-12-01
+62,Student 62,Government Engineering College Barton Hill,Thiruvananthapuram,2025-12-02
+63,Student 63,Mar Baselios College,Thiruvananthapuram,2025-12-03
+64,Student 64,University College,Thiruvananthapuram,2025-12-04
+65,Student 65,TKM College,Thiruvananthapuram,2025-12-05
+66,Student 66,College of Engineering Trivandrum,Thiruvananthapuram,2025-12-06
+67,Student 67,Government Engineering College Barton Hill,Thiruvananthapuram,2025-12-07
+68,Student 68,Mar Baselios College,Thiruvananthapuram,2025-12-08
+69,Student 69,University College,Thiruvananthapuram,2025-12-09
+70,Student 70,TKM College,Thiruvananthapuram,2025-12-10
+71,Student 71,College of Engineering Trivandrum,Thiruvananthapuram,2025-12-11
+72,Student 72,Government Engineering College Barton Hill,Thiruvananthapuram,2025-12-12
+73,Student 73,Mar Baselios College,Thiruvananthapuram,2025-12-13
+74,Student 74,University College,Thiruvananthapuram,2025-12-14

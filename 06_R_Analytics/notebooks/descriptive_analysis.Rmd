@@ -1,0 +1,53 @@
+---
+title: "PgBee Descriptive Analytics"
+author: "Sidharth"
+output: html_document
+---
+
+```{r}
+library(readr)
+library(dplyr)
+
+students <- read_csv("../outputs/students_clean.csv")
+hostels <- read_csv("../outputs/hostels_clean.csv")
+bookings <- read_csv("../outputs/bookings_clean.csv")
+```
+
+# PgBee Beta Summary
+
+```{r}
+total_students <- nrow(students)
+total_hostels <- nrow(hostels)
+total_bookings <- nrow(bookings)
+
+total_revenue <- sum(bookings$commission_amount)
+
+summary_table <- data.frame(
+  Metric = c(
+    "Students",
+    "Hostels",
+    "Bookings",
+    "Revenue"
+  ),
+  Value = c(
+    total_students,
+    total_hostels,
+    total_bookings,
+    total_revenue
+  )
+)
+
+summary_table
+```
+
+# Revenue Per Booking
+
+```{r}
+total_revenue / total_bookings
+```
+
+# Revenue Per Hostel
+
+```{r}
+total_revenue / total_hostels
+```

@@ -1,0 +1,39 @@
+hostel_id,owner_id,hostel_name,district,capacity,monthly_rent
+1,1,CET Boys Residency,Thiruvananthapuram,120,6500
+2,1,CET Girls Residency,Thiruvananthapuram,90,6800
+3,2,Sreekaryam Student Home,Thiruvananthapuram,80,6200
+4,2,Sreekaryam Ladies Hostel,Thiruvananthapuram,70,6500
+5,3,Kazhakkoottam Residency,Thiruvananthapuram,100,7000
+6,3,Kazhakkoottam Ladies Residency,Thiruvananthapuram,80,7200
+7,4,Pattom Student Hostel,Thiruvananthapuram,90,6500
+8,4,Pattom Ladies Hostel,Thiruvananthapuram,70,6700
+9,5,Ulloor Residency,Thiruvananthapuram,80,6000
+10,6,Karyavattom Student Stay,Thiruvananthapuram,120,7000
+11,6,Karyavattom Ladies Stay,Thiruvananthapuram,100,7200
+12,7,Kesavadasapuram Hostel,Thiruvananthapuram,70,6200
+13,8,Medical College Residency,Thiruvananthapuram,120,7500
+14,8,Medical College Ladies Hostel,Thiruvananthapuram,90,7600
+15,9,Technopark Student Home,Thiruvananthapuram,100,7000
+16,10,Mannanthala Hostel,Thiruvananthapuram,80,6000
+17,11,Peroorkada Residency,Thiruvananthapuram,90,6200
+18,11,Peroorkada Ladies Hostel,Thiruvananthapuram,70,6400
+19,12,Nalanchira Student Home,Thiruvananthapuram,80,6200
+20,13,Pangappara Residency,Thiruvananthapuram,90,6500
+21,14,Akkulam Student Stay,Thiruvananthapuram,100,6800
+22,15,Kowdiar Residency,Thiruvananthapuram,80,7000
+23,16,Vazhuthacaud Hostel,Thiruvananthapuram,70,6500
+24,17,Jagathy Student Home,Thiruvananthapuram,90,6200
+25,18,Thampanoor Residency,Thiruvananthapuram,100,7000
+26,19,Palayam Hostel,Thiruvananthapuram,90,6800
+27,20,Statue Student Stay,Thiruvananthapuram,80,6500
+28,21,PMG Residency,Thiruvananthapuram,70,6200
+29,22,Kuravankonam Hostel,Thiruvananthapuram,90,6800
+30,23,Kuravankonam Ladies Hostel,Thiruvananthapuram,70,7000
+31,24,Ambalamukku Student Home,Thiruvananthapuram,80,6200
+32,25,Vellayambalam Residency,Thiruvananthapuram,90,7000
+33,5,Ulloor Ladies Hostel,Thiruvananthapuram,70,6200
+34,7,Kesavadasapuram Ladies Hostel,Thiruvananthapuram,60,6400
+35,10,Mannanthala Ladies Hostel,Thiruvananthapuram,70,6200
+36,15,Kowdiar Ladies Hostel,Thiruvananthapuram,60,7200
+37,18,Thampanoor Ladies Residency,Thiruvananthapuram,70,7000
+38,20,Statue Ladies Hostel,Thiruvananthapuram,60,6500
