@@ -1,7 +1,8 @@
 ---
 title: "PgBee Descriptive Analytics"
 author: "Sidharth"
-output: html_document
+date: "`r Sys.Date()`"
+output: word_document
 ---
 
 ```{r}
@@ -19,7 +20,6 @@ bookings <- read_csv("../outputs/bookings_clean.csv")
 total_students <- nrow(students)
 total_hostels <- nrow(hostels)
 total_bookings <- nrow(bookings)
-
 total_revenue <- sum(bookings$commission_amount)
 
 summary_table <- data.frame(
