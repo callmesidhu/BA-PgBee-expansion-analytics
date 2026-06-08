@@ -1,0 +1,25 @@
+---
+title: "PgBee Forecast Report"
+author: "Sidharth"
+output: word_document
+---
+
+# Executive Summary
+
+- Hostels: 38
+- Bookings: 74
+- Revenue: ₹36,926
+- Profit: ₹26,926
+
+# Forecast Results
+
+```{r}
+forecast_data <- read.csv("outputs/forecast_summary.csv")
+forecast_data
+```
+
+# Recommendations
+
+1. Expand in Trivandrum.
+2. Expand to Ernakulam.
+3. Expand to Kozhikode.
