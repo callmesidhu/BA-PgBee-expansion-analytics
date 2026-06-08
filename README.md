@@ -562,10 +562,6 @@ Projected Growth:
 
 **Sidharth**
 
-Founder & CEO, PgBee
-
-Industrial Engineering Student
-
 Business Analytics & Expansion Strategy Project
 
 ---
